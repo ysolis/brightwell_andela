@@ -14,7 +14,7 @@ This repository contains:
     AWS_ACCESS_KEY_ID - with the IAM User AWS Access Key ID
     AWS_SECRET_ACCESS_KEY - with the IAM User Secret Access Key
     AWS_DEFAULT_REGION - define one default AWS region, if you are going to de a multiregion deploy, put the first one and indicate the others in the Terraform code
-
+    AWS_REGION - same value than AWS_DEFAULT_REGION
 
 - in the shell console execute the commands:
 ```
